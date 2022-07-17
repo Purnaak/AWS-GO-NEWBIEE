@@ -1,2 +1,2 @@
 # AWS-GO-NEWBIEE
-Repository For GO-related 
+Repository for GO-related 
