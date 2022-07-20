@@ -7,7 +7,8 @@ build:
 
 test:
 	go test ./...
-
+test:
+anu added few more files and tested ./....
 vet:
 	go vet ${VET_FLAGS} ./...
 
